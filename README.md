@@ -19,10 +19,10 @@ Certa vez, vi a transformação de dados brutos em informações úteis e fiquei
 - Sem "dark mode", sem vida
 - **Hobbies:** Editar vídeo CAPCUT e/ou com Claude, escutar músicas no aleatório para descobrir novos artistas
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</p>
+</div>
