@@ -21,6 +21,6 @@ Certa vez, vi a transformação de dados brutos em informações úteis e fiquei
 
 - ### 📊 Minhas Estatísticas no GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O_TEU_USERNAME&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O_TEU_USERNAME&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmarcosabreu&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmarcosabreu&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
