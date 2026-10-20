@@ -1,4 +1,3 @@
-::: {align="center"}
 # Marcos Abreu
 
 **De Administração para Dados \| Construindo uma nova carreira, aos
