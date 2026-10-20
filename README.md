@@ -11,7 +11,7 @@ Certa vez, vi a transformação de dados brutos em informações úteis e fiquei
 
 ####  O que você vai encontrar por aqui
 - Repositórios com meus estudos de Python/SQL e exercícios de lógica.
-- Mini-projetos práticos aplicando o que aprendo em análise de dados e dentro do Databricks
+- Mini-projetos práticos aplicando o que aprendo em análise de dados e usos dentro do Databricks
 
 #### Curiosidades
 - Se algo pode ser automatizado, eu vou conseguir dar um jeito de automatizar
