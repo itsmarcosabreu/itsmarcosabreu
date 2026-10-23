@@ -17,7 +17,7 @@ Certa vez, vi a transformação de dados brutos em informações úteis e fiquei
 - Se algo pode ser automatizado, eu vou conseguir dar um jeito de automatizar
 - Eu não consigo ficar sem café enquanto estudo
 - Sem "dark mode", sem vida
-- **Hobbies:** Editar vídeo CAPCUT e/ou com Claude, escutar músicas no aleatório para descobrir novos artistas
+- **Hobbies:** Tocar violão, editar vídeo com Claude e escutar músicas no aleatório para descobrir novos artistas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
